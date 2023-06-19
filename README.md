@@ -1,6 +1,6 @@
 # Sorting Visualizer
 
-[Live View](https://theankitkhatri.github.io/Sorting-Visualiser/)
+[Live View](https://ankeeeeeeeet.github.io/Sorting-Visualiser/)
 
 ## Description
 
